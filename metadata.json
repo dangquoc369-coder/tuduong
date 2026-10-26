@@ -1,0 +1,6 @@
+{
+  "name": "Tu Dưỡng - Đếm Số Lần Niệm Phật Bằng Giọng Nói AI",
+  "description": "Ứng dụng PWA hỗ trợ Phật tử tự động đếm số lần niệm Phật, Bồ Tát bằng micro điện thoại, chuông mõ thanh tịnh và quản lý mục tiêu tu tập.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
